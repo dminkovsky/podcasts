@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Yale</title>
+        <item>
+            <title>Hello!</title>
+            <itunes:title>Hello!</itunes:title>
+            <pubDate>Sun, 25 Nov 2018 16:34:24 +0000</pubDate>
+            <guid isPermaLink="false"><![CDATA[a435dec6936741beb8c24e3d3ea248c6]]></guid>
+            <link>http://feedproxy.google.com/~r/InternetHistoryPodcast/~3/nv2ug--3hx4/</link>
+            <description>
+                <![CDATA[<p>Ken Norton is a partner at GV, Alphabets venture capital arm, but before that, he was a product manager at Google, where he led the development of products like Google Docs, Google Calendar and Google Mobile Maps. But he was also early at JotSpot which became Google sites, was a product manager at Yahoo, was an early employee at CNET and was CTO of Snap, a company probably none of you have ever heard of but I’ve been dying to talk about for years. No. Not snapchat. The original Snap. The dotcom era snap. So, this is another great episode with a guy who has played roles in a ton of our favorites companies and topics.</p>]]></description>
+            <itunes:duration>01:19:37</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:keywords/>
+            <itunes:subtitle>
+                <![CDATA[Ken Norton is a partner at GV, Alphabets venture capital arm, but before that, he was a product manager at Google, where he led the development of products like Google Docs, Google Calendar and Google Mobile Maps. But he was also early at JotSpot...]]></itunes:subtitle>
+            <itunes:summary>Ken Norton is a partner at GV, Alphabets venture capital arm, but before that, he was a
+                product manager at Google, where he led the development of products like Google Docs, Google Calendar
+                and Google Mobile Maps. But he was also early at JotSpot which became Google sites, was a product
+                manager at Yahoo, was an early employee at CNET and was CTO of Snap, a company probably none of you have
+                ever heard of but I’ve been dying to talk about for years. No. Not snapchat. The original Snap. The
+                dotcom era snap.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <author>internethistorypodcast@gmail.com (Brian McCullough @brianmcc)</author>
+            <itunes:author>Brian McCullough @brianmcc</itunes:author>
+            <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/rlst145/mp3/rlst145_01_090606.mp3" length="76563687" type="audio/mpeg"/>
+        </item>
+    </channel>
+</rss>
